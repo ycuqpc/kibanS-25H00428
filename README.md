@@ -11,7 +11,7 @@ We will elucidate the mechanism of deuterated medicines by our “<i>in silico</
 | :--- | :--- |
 | 2025.06.09 | Webサイトを開設しました。 |
 | 2025.05.01 | 横浜市立大学にてキックオフミーティングを開催しました。 |
-| 2025.04.01 | In silico 重水素科学プロジェクトがスタートしました。 |
+| 2025.04.01 | 「In silico 重水素科学」プロジェクトがスタートしました。 |
 
 <br>
 <br>
