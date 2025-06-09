@@ -5,8 +5,17 @@ We will elucidate the mechanism of deuterated medicines by our “<i>in silico</
 <br>
 <br>
 
+# News
+
+| Date |         |
+| :--- | :--- |
+| 2025.06.09 | Webサイトを開設しました。 |
+| 2025.05.01 | 横浜市立大学にてキックオフミーティングを開催しました。 |
+| 2025.04.01 | In Silico 重水素科学プロジェクトがスタートしました。 |
+
 ## Acknowledgments
 
-This project is supported by [Grant-in-Aid for Scientific Research (S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021).&emsp;<img src="./deuterium%202.png" width="300" > <br>
+本研究課題は[日本学術振興会（JSPS）科学研究費助成事業 基盤研究(S)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021)の助成を受けています。
+This project is supported by [Grant-in-Aid for Scientific Research (S) (JSPS, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021).&emsp;<img src="./deuterium%202.png" width="300" > <br>
 <br>
 Background image was designed by [RawPixel.Com](https://www.rawpixel.com/) via [Freepik](http://www.freepik.com/).
