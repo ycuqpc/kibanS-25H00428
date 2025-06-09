@@ -5,7 +5,7 @@ We will elucidate the mechanism of deuterated medicines by our “<i>in silico</
 <br>
 <br>
 
-## Acknowledgment
+## Acknowledgments
 
 This project is supported by [Grant-in-Aid for Scientific Research (S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021).&emsp;<img src="./deuterium%202.png" width="300" > <br>
 <br>
