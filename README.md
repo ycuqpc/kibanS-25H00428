@@ -1,72 +1,7 @@
-Recovering from the pandemic, the international exchange reboots. We hold XX workshop in Kanazawa-Hakkei Campus of Yokohama City University on January XXth, 2024. This event will have both oral and poster presentations by students from Graduate School of Nanobioscience at Yokohama City University (YCU), and _other school names_. We hope the strong interaction between students from various countries.
-
-# Registration
-
-| Date | ToDo |
-| :--- | :--- |
-| January XXth | Deadline for Registration <br> https://forms.office.com/ |
-| January XXth | Deadline for Submission of Titles <br> https://forms.office.com/ |
-
-# Program
-
-Wednesday, January XXth, 2024.
-
-| Start | End   | Speaker | Title |
-| :---: | :---: | :------ | :---- |
-| 13:30 | 13:50 | | **Registration** |
-| 13:50 | 14:00 | | **Opening remarks** by Prof. John Doe |
-| 14:00 | 14:30 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 14:30 | 15:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:00 | 15:20 | | **Coffee Break** |
-| 15:20 | 15:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 15:40 | 16:00 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 16:00 | 16:30 | | **Poster Session** (by speakers who have odd no.) |
-| 16:30 | 17:00 | | **Poster Session** (by speakers who have even no.) |
-| 17:00 | 17:20 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:20 | 17:40 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 17:40 | 17:50 | | **Closing remarks** by Prof. John Doe |
-| 17:50 | 18:00 | | **Award ceremony** by Prof. John Doe |
-| 18:30 | 21:00 | | **Banquet** at _Ristorante Prima Stella_ |
-
-# Invited Speakers
-
-Meet the invited speakers:
-
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
-
-- __Prof. John Doe__ from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-  <br>His specialty is the development of ab initio calculation methods and application to hydrogen compounds. He will give a lecture on recent progress.
-
-# Poster Session
-
-The presenters with odd numbers will have poster presentations first half, and those with even numbers second half. Each poster board is 90cm x 120cm (width x height).
-
-| No. | Name | Title |
-| :-- | :--- | :---- |
-|  1 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  2 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  3 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  4 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  5 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  6 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  7 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  8 | John Doe | New universality of the nuclear quantum effects in proton science |
-|  9 | John Doe | New universality of the nuclear quantum effects in proton science |
-| 10 | John Doe | New universality of the nuclear quantum effects in proton science |
-
-# Access
-
-[Kanazawa-Hakkei Campus of Yokohama City University](https://goo.gl/maps/UwE5dQeStBsi8jVu5) is a 5-minutes walk from [Kanazawa-Hakkei Station](https://maps.app.goo.gl/mWU5TP94mPia5UZX8) of [Keikyu line](https://www.haneda-tokyo-access.com/en/).
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13019.591406458434!2d139.5989118!3d35.333358!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601843fd143d2285%3A0xa2bfcf87b9aac00d!2sYokohama%20City%20University%20Kanazawa-Hakkei%20Campus!5e0!3m2!1sen!2sjp!4v1704183177009!5m2!1sen!2sjp" width="600" height="450" style="border:0;margin-bottom:30px; max-width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Organizers
-
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
-- Prof. John Doe from [YCU](https://www-user.yokohama-cu.ac.jp/~tachi/member.html)
+近年、重⽔素置換された重⽔素化医薬品において薬効持続性の改善が⾒出され、重⽔素に潜在する⾼付加価値性を巡って国際競争が極めて激化し始めています。そこで本研究課題では、この国際競争に打ち勝つべく、in silicoの先導で実験科学と⼀丸となり重⽔素化医薬品の理解とその発現機構解明に取り組みます。具体的には、私たちが独⾃に開発・実装した重⽔素化学に特化した重⽔素量⼦化学とデータ科学を⽤いて、重⽔素化医薬品の体内分布に関わる⾎中タンパク質との相互作⽤計算や、代謝に関わる薬物代謝酵素による分解反応過程の網羅的な計算を行うとともに、重⽔素化モデル医薬品を実際に合成して⾎中タンパク質との相互作⽤および代謝酵素による代謝過程の計測を実施します。理論計算および実験計測で取得した重⽔素置換医薬品に関する全データを、機械学習や説明可能AI技術で解析し、医薬品における重⽔素効果の発現機構を解明します。さらに、重⽔素置換医薬品に対応した薬物動態推定システムを構築し、新規の重⽔素化医薬品の候補となる分⼦を提案、そして実験科学で検証します。<br>
+<br>
+We will elucidate the mechanism of deuterated medicines by our “in silico” techniques, together with several experimental ones. We will apply our deuterium quantum chemistry and data science to calculate the interaction of deuterated drugs with proteins in the blood and the reaction process by drug-metabolizing enzymes. Deuterated model drugs are synthesized and their interactions with blood proteins and metabolic processes by metabolic enzymes are experimentally measured. All data on deuterated drugs through theoretical calculations and experimental measurements will be analyzed using machine learning and explainable AI techniques. We will construct a pharmacokinetic estimation system for deuterated medicines, propose new candidate molecules for deuterium-substituted drugs, and experimentally validate them.<br>
 
 ## Acknowledgment
 
-This project was supported by the XXX.
+This project is supported by [Grant-in-Aid for Scientific Research (S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021).&emsp;<img src="./deuterium%202.png" width="300" >
