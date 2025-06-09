@@ -6,4 +6,4 @@ We will elucidate the mechanism of deuterated medicines by our “<i>in silico</
 
 This project is supported by [Grant-in-Aid for Scientific Research (S) (MEXT, KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021).&emsp;<img src="./deuterium%202.png" width="300" > <br>
 <br>
-Background image was designed by [Freepik](http://www.freepik.com/).
+Background image was designed by [RawPixel.Com](https://www.rawpixel.com/) via [Freepik](http://www.freepik.com/).
