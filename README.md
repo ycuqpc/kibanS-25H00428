@@ -17,7 +17,7 @@ We will elucidate the mechanism of deuterated medicines by our “<i>in silico</
 <br>
 <br>
 
-## Acknowledgments
+## Acknowledgements
 
 本研究課題は [日本学術振興会（JSPS）科学研究費助成事業 基盤研究(S)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021) の助成を受けています。<br>
 This project is supported by [Grant-in-Aid for Scientific Research (S) (JSPS KAKENHI)](https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_r7.html#u20250322182021).<br>
