@@ -4,19 +4,19 @@ remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
 plugins:
 - jekyll-remote-theme
 
-title: This is draft!
+title: In silicoの先導による重水素化医薬品の理解と設計指針の構築（In Silico重水素科学）
 email: 
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
-copyright: "© 2024 {author}"
-description: "description description description description description description description description description description"
+copyright: "© 2025 {author}"
+description: "基盤研究(S): In Silico重水素科学（2025-2029年度）のwebサイトです"
 # favicon: "./favicon.svg"
 night_mode: "manual"
 brand_color: "#8FC231"
 
 defaults:
   home:
-    heading: "International Workshop on Theoretical and Computational Chemistry 2024"
-    subheading: "January XXth, 2024 in Kanazawa-Hakkei Campus of Yokohama City University"
+    heading: "In silico の先導による重水素化医薬品の理解と設計指針の構築（In Silico重水素科学）"
+    subheading: "基盤研究(S) 課題番号: 25H00428（2025-2029年度）"
     banner: "./home1.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
 
 banner:
@@ -45,14 +45,6 @@ translate_langs:
     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
     text: Japanese
 
-  - lang: th
-    img: https://cdn.countryflags.com/thumbs/thailand/flag-400.png
-    text: Thai
-
   - lang: en
-    img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+    img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
     text: English
-
-  - lang: fr
-    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-    text: French
