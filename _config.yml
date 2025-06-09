@@ -40,11 +40,11 @@ code_badge:
 
 # header_pages: []
 # translate_langs: []
-translate_langs:
-  - lang: ja
-    img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-    text: Japanese
-
-  - lang: en
-    img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
-    text: English
+# translate_langs:
+#   - lang: ja
+#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+#     text: Japanese
+# 
+#   - lang: en
+#     img: https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png
+#     text: English
