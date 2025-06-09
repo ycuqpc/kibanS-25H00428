@@ -17,7 +17,8 @@ defaults:
   home:
     heading: "In silico の先導による重水素化医薬品の理解と設計指針の構築 (In Silico 重水素科学)"
     subheading: "基盤研究(S) 課題番号: 25H00428 (2025-2029年度)"
-    banner: "./home1.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
+    # banner: "./home1.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
+    banner: "./126742.jpg" # https://www.freepik.com/free-photo/medicine-capsules-global-health-with-geometric-pattern-digital-remix_17226007.htm
 
 banner:
   # video: null             # Video banner source
